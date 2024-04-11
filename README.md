@@ -2,7 +2,7 @@
 ![RXZV BANNER PROFILE](https://github.com/rxzv/rxzv/blob/main/assets/purple.png)
 
 ## S T A T S
-<div align="center">
+<div align="left">
   
   ![rxzv's Stats](https://github-readme-stats.vercel.app/api?username=rxzv\&rank_icon=github&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
   ![rxzv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rxzv&theme=midnight-purple&hide_border=true)
