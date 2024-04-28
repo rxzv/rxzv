@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://github.com/rahfianugerah"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rahfianugerah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Curriculum_Vitae-white?&logo=google-scholar&logoColor=black"/></a>
 </div>
 
 
