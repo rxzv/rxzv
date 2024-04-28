@@ -1,6 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rahfianugerah&color=green)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rahfianugerah/rahfianugerah/blob/main/LICENSE)
-
 
 <div align="center">
   <a href="https://github.com/rahfianugerah"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white"/></a>
