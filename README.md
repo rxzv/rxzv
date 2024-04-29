@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=rahfianugerah&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=rahfianugerah&color=green&label=Profile+Views)
 ![Portofolio Website](https://img.shields.io/badge/Portofolio_Website-Click_here!-green)
 
 <div align="center">
