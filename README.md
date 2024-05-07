@@ -14,5 +14,15 @@
   Fueled by determination and a thirst for knowledge, Rahfi's journey promises exciting contributions to the world of technology.
 </p>
 
+---
+
+<p align="justify">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet ex nec ligula blandit vulputate vitae vitae est. Morbi at cursus lacus. 
+  Nunc tincidunt enim diam, vel consectetur erat feugiat non. Suspendisse accumsan, erat porta viverra egestas, purus lacus placerat metus, at venenatis mi erat in eros. 
+  Nam sodales tristique sodales. Duis et congue nisl. Mauris quam ipsum, efficitur sit amet lacus ac, interdum imperdiet elit. Duis ut enim nec sem malesuada ultricies et eu augue.
+</p>
+
+---
+
 ### Certificate
 - AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/373c0502-683a-4d79-a758-d7e7979c8f3b/public_url)
