@@ -21,7 +21,6 @@
 ---
 
 ### Encrypted Message:
-
 <p align="justify">
-7G3jpZGI+Oe0/UbuqntlnYjgpw9+k4px7xG/JZ/O0SVduPFptC7rm/QPESCVOmS7Q9yeQvHu7PwKx00bF3vVvG/1SzB5W7X1AfUz88f2FI0=
+LSN1NSoyvUTzQkXB9u67ePdA+0BEDEY3ud4RXeM9/UM=
 </p>
