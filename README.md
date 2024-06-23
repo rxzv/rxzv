@@ -18,6 +18,12 @@
   Fueled by determination and a thirst for knowledge, Rahfi's journey promises exciting contributions to the world of technology.
 </p>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rahfianugerah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height=150/>
+  </a>
+</div>
+
 ---
 
 ### Encrypted Message:
