@@ -11,6 +11,8 @@
 
 <div align="center">
   <img src="https://github.com/rahfianugerah/rahfianugerah/assets/156213717/371c73ff-d973-4b1a-9362-e014c7ecd3bb" height=150/>
+  
+  
 </div>
 
 ### Hi Everyone! 👋 I'm Naufal Rahfi Anugerah
@@ -21,9 +23,8 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rahfianugerah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height=150/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahfianugerah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahfianugerah&theme=midnight-purple&hide_border=true&layout=compact" height=150/>
 </div>
 
 ---
