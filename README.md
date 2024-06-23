@@ -10,8 +10,6 @@
 
 <div align="center">
   <img src="https://github.com/rahfianugerah/rahfianugerah/assets/156213717/371c73ff-d973-4b1a-9362-e014c7ecd3bb" height=150/>
-  <img src="https://github.com/rahfianugerah/rahfianugerah/assets/156213717/371c73ff-d973-4b1a-9362-e014c7ecd3bb" height=150/>
-  <img src="https://github.com/rahfianugerah/rahfianugerah/assets/156213717/371c73ff-d973-4b1a-9362-e014c7ecd3bb" height=150/>
 </div>
 
 ### Hi Everyone! 👋 I'm Naufal Rahfi Anugerah
