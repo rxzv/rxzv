@@ -23,9 +23,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahfianugerah&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"height=100/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahfianugerah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height=100/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahfianugerah&theme=midnight-purple&hide_border=true&layout=compact" height=100/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahfianugerah&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahfianugerah&theme=midnight-purple&hide_border=true&layout=donut" height=150/>
 </div>
 
 ---
