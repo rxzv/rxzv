@@ -15,7 +15,7 @@
   
 </div>
 
-### Hi Everyone! 👋 I'm Naufal Rahfi Anugerah
+### Hello Everyone! 👋 I'm Naufal Rahfi Anugerah
 <p align="justify">
   Naufal Rahfi Anugerah, a skilled developer, dreams of becoming a future tech leader with his own innovative tech company. 
   His strong logical thinking and problem-solving skills, combined with fluency in multiple programming languages, make him a genius developer with a vision.  
